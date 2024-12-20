@@ -1,10 +1,10 @@
 # hack
 
-A new Flutter project.
+Morse code Learning App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Mourse key is the most relevant Language that halpful for Critical situation.This app Will Helpful to learn Morse Key Easily for Normal,Disabled person also.For Disabled Person This application provide Gesture detectors to Navigate through Screens
 
 A few resources to get you started if this is your first Flutter project:
 
