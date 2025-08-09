@@ -4,7 +4,7 @@ Morse code Learning App
 
 ## Getting Started
 
-Mourse key is the most relevant Language that halpful for Critical situation.This app Will Helpful to learn Morse Key Easily for Normal,Disabled person also.For Disabled Person This application provide Gesture detectors to Navigate through Screens
+Morse code is the most relevant Language that is halpful for Critical situation.This app Will be Helpful to learn Morse code easily for anyone ,including visually impaired people.For a disabled person this application provide Gesture detectors to Navigate through Screens
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
